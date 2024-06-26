@@ -1,1 +1,2 @@
-# gestionPosgradoBackend
+# GestionPosgrado Backend
+NodeJS + ExpressJS
